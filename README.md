@@ -3,13 +3,13 @@ Prototypes of functionalities that will later be put together for the first Imag
 
 In this repository, I will have all information and files to reproduce every single one of these prototypes which combined will give a pretty cool drone.
 The drone's requirements should be:
->Remote Controllable
->TF lite
->OTA Update
->30 minute flight-time
+-Remote Controllable
+-TF lite
+-OTA Update
+-30 minute flight-time
 
 # Proto1:
-MOTORS
+Motors
 
 # Proto2:
 GPS
