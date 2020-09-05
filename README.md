@@ -12,6 +12,8 @@ The drone's requirements should be:
 
 -30 minute flight-time
 
+[Imagine Drone Calendar](https://calendar.google.com/calendar/embed?src=04hdct5jqvj0umf2mbv9eqtrfs%40group.calendar.google.com&ctz=America%2FToronto)
+
 # Proto1:
 Motors
 
